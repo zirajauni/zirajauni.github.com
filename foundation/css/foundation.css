@@ -1576,7 +1576,7 @@ kbd {
   line-height: 1;
   text-align: center;
   cursor: pointer;
-  background-color: #1779ba;
+  background-color: #A239CA;
   color: #fefefe; }
   [data-whatinput='mouse'] .button {
     outline: 0; }
@@ -2211,7 +2211,7 @@ select {
   padding: 1rem;
   border: 1px solid rgba(10, 10, 10, 0.25);
   border-radius: 0;
-  background-color: white;
+  background-color: #e7dfdd;
   color: #0a0a0a; }
   .callout > :first-child {
     margin-top: 0; }
